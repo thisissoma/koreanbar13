@@ -4,8 +4,8 @@
 과연????? :thinking_face:
 
 
-# 사례
-:white_check_mark:   :black_square_button:
+# 기록
+:white_check_mark:   :black_square_button: :small_red_triangle:
 
 ### 2022
 - [ ] 12회 변시
@@ -24,7 +24,7 @@
 
 ### 2021
 - [ ] 11회 변시
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**헌법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 21년 10모
 :black_square_button:공법   :black_square_button:형사   :black_square_button:민사
@@ -40,7 +40,7 @@
 ### 2020
 
 - [ ] 10회 변시
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**헌법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 20년 10모
 :black_square_button:공법   :black_square_button:형사   :black_square_button:민사
@@ -85,7 +85,7 @@
 
 
 
-# 기록
+# 사례
 
 :white_check_mark:   :black_square_button:
 
