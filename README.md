@@ -4,7 +4,7 @@
 과연????? :thinking_face:
 
 
-# 기록
+# 사례
 :white_check_mark:   :black_square_button: :small_red_triangle:
 
 ### 2022
@@ -85,7 +85,7 @@
 
 
 
-# 사례
+# 기록
 
 :white_check_mark:   :black_square_button:
 
@@ -146,7 +146,7 @@
 :black_square_button:공법   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 19년 8모
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**행정법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 19년 6모
 :black_square_button:공법   :black_square_button:형사   :black_square_button:민사
