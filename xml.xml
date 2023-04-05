@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<object xmlns="http://www.aladin.co.kr/ttb/apiguide.aspx">
+    <title>알라딘 검색결과 - 정연석</title>
+    <link>http://www.aladin.co.kr/search/wsearchresult.aspx?KeyWord=%c1%a4%bf%ac%bc%ae&amp;SearchTarget=book</link>
+    <language>ko</language> 
+    <copyright>&amp;copy;copyright 2008 aladin</copyright> 
+	<pubDate>Wed, 05 Apr 2023 11:04:28 GMT</pubDate> 
+	<totalResults>50</totalResults>
+    <startIndex>1</startIndex>
+    <itemsPerPage>1</itemsPerPage>
+    <query>정연석</query>
+    <version>20070901</version>
+    <searchCategoryId>0</searchCategoryId>
+    <searchCategoryName>전체</searchCategoryName>
+    
+			<item itemId="312842243">
+			    <title>민사소송법 로스쿨 선택형의 정석 기출문제 완전분석 - 문제편 + 해설편, 제2판</title>
+				<link>http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=312842243&amp;copyPaper=1&amp;ttbkey=ttbletyoursoulbefree1931001&amp;start=api</link>
+				<author>정연석 지음</author>
+				<pubDate>Tue, 14 Mar 2023 15:00:00 GMT</pubDate> 
+				<description>&lt;img src='https://image.aladin.co.kr/product/31284/22/coveroff/k522832570_1.jpg'/&gt; 민사소송법 로스쿨 선택형의 정석 기출문제 완전분석 - 정연석 지음 &lt;br/&gt; 제2판에서는 2022년에 시행된 법전협 모의시험 3회분, 2023년 제12회 변호사시험 문제 및 해설을 정교하게 추가하였다. 2022~2023년의 4회분 문제가 추가되면서, 기존의 일반지문이 중복지문으로, 중복지문이 빈출지문으로 상향되는 경우가 있어 이를 일일이 반영하여 수정하였다.</description>
+				<creator>aladin</creator> 
+				<isbn>K522832570</isbn>
+				<isbn13>9791167920959</isbn13>
+				<priceSales>34200</priceSales>
+				<priceStandard>38000</priceStandard>
+				<stockStatus></stockStatus>
+				<mileage>1140</mileage>
+				<cover>https://image.aladin.co.kr/product/31284/22/coversum/k522832570_1.jpg</cover>
+				<categoryId>34789</categoryId>
+				<categoryName>국내도서&gt;수험서/자격증&gt;인문/사회/법(고등고시)&gt;변호사시험&gt;민사소송법</categoryName>
+				<publisher>필통북스</publisher>
+				<customerReviewRank>0</customerReviewRank>
+                				
+			</item>
+			
+</object>

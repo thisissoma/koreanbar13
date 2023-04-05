@@ -12,13 +12,13 @@
 :black_square_button:공법   :black_square_button:형사  :black_square_button:민사
 
 - [ ] 22년 10모
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**헌법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 22년 8모
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**헌법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 22년 6모
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**헌법만**)   :black_square_button:형사   :black_square_button:민사
 
 ---
 
