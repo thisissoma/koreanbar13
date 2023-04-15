@@ -27,7 +27,7 @@
 :small_red_triangle:공법(**헌법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 21년 10모
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**헌법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 21년 8모
 :black_square_button:공법   :black_square_button:형사   :black_square_button:민사
@@ -156,10 +156,10 @@
 ### 2018
 
 - [ ] 8회 변시
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**행정법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 18년 10모
-:black_square_button:공법   :black_square_button:형사   :black_square_button:민사
+:small_red_triangle:공법(**행정법만**)   :black_square_button:형사   :black_square_button:민사
 
 - [ ] 18년 8모
 :black_square_button:공법   :black_square_button:형사   :black_square_button:민사
